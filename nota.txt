@@ -1,0 +1,6 @@
+Untuk setiap halaman baru:
+
+1. Sambungkan CSS
+2. Ubah Tajuk halaman
+3. Sambungkan Ikon
+4. Sambungkan pautan ke halaman sebelum
